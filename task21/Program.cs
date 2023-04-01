@@ -1,0 +1,13 @@
+﻿Console.Clear();
+Console.Write("Введите координаты первой точки через запятую:");
+string a = Console.ReadLine()!;
+Console.Write("Введите координаты второй точки через запятую:");
+string b = Console.ReadLine()!;
+int r1 = (int)Math.Pow(int.Parse(b[0].ToString())-int.Parse(a[0].ToString()),2);
+Console.WriteLine($"r1={r1}");
+int r2 = (int)Math.Pow(int.Parse(b[2].ToString())-int.Parse(a[2].ToString()),2);
+Console.WriteLine($"r2={r2}");
+int r3 = (int)Math.Pow(int.Parse(b[4].ToString())-int.Parse(a[4].ToString()),2);
+Console.WriteLine(r3);
+int rang = (int)Math.Sqrt(r1+ r2+ r3);
+Console.WriteLine(rang);
