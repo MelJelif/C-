@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neiro\\4162\\c-\\task21\\task21.csproj": {}
+    "C:\\Users\\NEO\\Desktop\\LEARNING\\4162\\c-\\task21\\task21.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neiro\\4162\\c-\\task21\\task21.csproj": {
+    "C:\\Users\\NEO\\Desktop\\LEARNING\\4162\\c-\\task21\\task21.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neiro\\4162\\c-\\task21\\task21.csproj",
+        "projectUniqueName": "C:\\Users\\NEO\\Desktop\\LEARNING\\4162\\c-\\task21\\task21.csproj",
         "projectName": "task21",
-        "projectPath": "C:\\Users\\neiro\\4162\\c-\\task21\\task21.csproj",
-        "packagesPath": "C:\\Users\\neiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neiro\\4162\\c-\\task21\\obj\\",
+        "projectPath": "C:\\Users\\NEO\\Desktop\\LEARNING\\4162\\c-\\task21\\task21.csproj",
+        "packagesPath": "C:\\Users\\NEO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NEO\\Desktop\\LEARNING\\4162\\c-\\task21\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\neiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\NEO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
