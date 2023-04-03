@@ -1,4 +1,5 @@
-﻿Console.Write("Введите координаты первой точки через точкус запятой:");
+﻿Console.Clear();
+Console.Write("Введите координаты первой точки через точкус запятой:");
 string[] a = Console.ReadLine()!.Split(';');
 // // foreach (string c in a)
 // {

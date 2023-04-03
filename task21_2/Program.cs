@@ -1,4 +1,5 @@
-﻿Console.Write("Введите координаты первой точки через пробел:");
+﻿Console.Clear();
+Console.Write("Введите координаты первой точки через пробел:");
 string[] a = Console.ReadLine()!.Split(' ');
 
 Console.WriteLine(string.Join(";", a));
