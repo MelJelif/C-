@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 Console.Write("Введите значение N: ");
-int n = int.Parse(Console.ReadLine());
+int n = int.Parse(Console.ReadLine()!);
 PrintNumbersFromNTo1(n);
     static void PrintNumbersFromNTo1(int n)
     {
