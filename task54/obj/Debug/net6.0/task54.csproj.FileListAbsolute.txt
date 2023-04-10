@@ -1,0 +1,15 @@
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\bin\Debug\net6.0\task54.exe
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\bin\Debug\net6.0\task54.deps.json
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\bin\Debug\net6.0\task54.dll
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\bin\Debug\net6.0\task54.pdb
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\task54.dll
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\refint\task54.dll
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\task54.pdb
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
+C:\Users\NEO\Desktop\LEARNING\4162\c-\task54\obj\Debug\net6.0\ref\task54.dll
